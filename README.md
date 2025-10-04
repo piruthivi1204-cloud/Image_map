@@ -254,6 +254,9 @@ temple3.html
 
 <img width="1919" height="882" alt="Screenshot 2025-10-04 184022" src="https://github.com/user-attachments/assets/10971001-ce55-4d26-8cc3-ab246a85da7a" />
 
+<img width="1248" height="750" alt="map" src="https://github.com/user-attachments/assets/90c39d85-eb27-47ab-8fcd-f571ebcddd0b" />
+
+
 
 
 
