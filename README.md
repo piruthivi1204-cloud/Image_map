@@ -243,10 +243,20 @@ temple3.html
 
 ```
 # OUTPUT
-![alt text](<../near me/image/piruth/static/1.png>)
-![alt text](<../near me/image/piruth/static/2.png>)
-![alt text](<../near me/image/piruth/static/3.png>)
-![alt text](<../near me/image/piruth/static/4.png>)
-![alt text](<../near me/image/piruth/static/5.png>)
+
+<img width="1915" height="827" alt="Screenshot 2025-10-04 184205" src="https://github.com/user-attachments/assets/689d2550-afdd-4d02-807a-70b40aeab5aa" />
+
+<img width="1919" height="891" alt="Screenshot 2025-10-04 184139" src="https://github.com/user-attachments/assets/57936fa4-9096-4f69-8f64-1157fe57af67" />
+
+<img width="1916" height="886" alt="Screenshot 2025-10-04 184114" src="https://github.com/user-attachments/assets/1d0a64ab-e149-43af-8028-8266c4996d93" />
+
+<img width="1919" height="881" alt="Screenshot 2025-10-04 184042" src="https://github.com/user-attachments/assets/acb003c7-8236-4abc-8517-a68a84bd0697" />
+
+<img width="1919" height="882" alt="Screenshot 2025-10-04 184022" src="https://github.com/user-attachments/assets/10971001-ce55-4d26-8cc3-ab246a85da7a" />
+
+
+
+
+
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
